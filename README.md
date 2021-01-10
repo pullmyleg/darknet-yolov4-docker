@@ -1,4 +1,4 @@
-# darknet-yolov4-docker
+# Simple AlexyAB/Darknet CPU docker Container 
 
 Raw ubuntu image with OpenCV and the latest AlexeyAB/darknet installed. Also includes yolov4-tiny weights and a horse testing video (takes a little while to find objects). 
 
